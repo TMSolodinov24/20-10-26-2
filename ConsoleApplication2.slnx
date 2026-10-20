@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConsoleApplication2/ConsoleApplication2.vcxproj" />
+  <Project Path="Layer 2/Layer 2.vcxproj" />
+  <Project Path="Test/Test.vcxproj" />
+</Solution>
